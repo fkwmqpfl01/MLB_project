@@ -1,5 +1,7 @@
 # MLB_project
 
+I participated in the Google Machine Learning Bootcamp 2024 and worked on the Gemma Sprint project. 
+
 ## Electric Vehicle Charging Station Locator
 This project demonstrates a Python-based system for finding the nearest electric vehicle (EV) charging station from a user-specified bus stop using natural language input and geolocation data. It utilizes Keras with a JAX backend for potential NLP integration (using the Gemma Language Model), geospatial distance calculations, and data handling with pandas.
 
@@ -105,3 +107,6 @@ Implementing a GUI or web-based frontend for ease of use.
 
 ### Contributors
 fkwmqpfl01
+
+
+#Google #GoogleMachineLearningBootcamp #GemmaSprint
